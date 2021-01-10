@@ -3,18 +3,18 @@
   <title></title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://xiaofan.buzz/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://xiaofan.buzz/"/>
   <updated>2021-01-10T13:28:23.807Z</updated>
-  <id>http://example.com/</id>
+  <id>http://xiaofan.buzz/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>樊哲锐</title>
-    <link href="http://example.com/2021/01/10/hello-world/"/>
-    <id>http://example.com/2021/01/10/hello-world/</id>
+    <link href="http://xiaofan.buzz/2021/01/10/hello-world/"/>
+    <id>http://xiaofan.buzz/2021/01/10/hello-world/</id>
     <published>2021-01-10T13:28:23.807Z</published>
     <updated>2021-01-10T13:28:23.807Z</updated>
     
@@ -34,8 +34,8 @@
   
   <entry>
     <title>myfirstBlog</title>
-    <link href="http://example.com/2021/01/09/myfirstBlog/"/>
-    <id>http://example.com/2021/01/09/myfirstBlog/</id>
+    <link href="http://xiaofan.buzz/2021/01/09/myfirstBlog/"/>
+    <id>http://xiaofan.buzz/2021/01/09/myfirstBlog/</id>
     <published>2021-01-09T11:50:59.000Z</published>
     <updated>2021-01-09T11:50:59.424Z</updated>
     
